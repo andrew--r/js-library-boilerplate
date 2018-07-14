@@ -2,8 +2,13 @@
   "name": "module-name",
   "version": "0.0.0",
   "description": "",
-  "author": "",
+  "author": {
+    "name": "Andrey Romanov",
+		"email": "me@andrew-r.ru",
+		"url": "http://andreyromanov.com"
+	},
   "license": "MIT",
+  "repository": "https://github.com/andrew--r/js-library-boilerplate",
   "main": "dist/moduleName.cjs.js",
   "module": "dist/moduleName.esm.js",
   "browser": "dist/moduleName.umd.js",
